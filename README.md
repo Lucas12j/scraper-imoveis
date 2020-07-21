@@ -12,6 +12,8 @@ Caso necessite utilizar tal classe, ainda é possível. Basta não passar nada n
 
 ### Preparando o Ambiente: 
 
+É importante ressaltar que usei o Geckodriver para realizar buscas automaticas no Firefox neste projeto, logo é necessário ter instalado tanto um como o outro na máquina.  
+
 ```
 pip install -r requirements.txt
 ```
